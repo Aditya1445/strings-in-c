@@ -21,7 +21,7 @@ int main()
         }
     }
 
-    printf("new string :%s", str);
+    printf("new string is :%s", str);
 
     return 0;
 }
